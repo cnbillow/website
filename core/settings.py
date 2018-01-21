@@ -37,7 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    
+
+    'akun.apps.AkunConfig',
     'peserta.apps.PesertaConfig',
 ]
 
@@ -68,6 +69,8 @@ TEMPLATES = [
         },
     },
 ]
+
+AUTH_USER_MODEL = 'akun.User'
 
 WSGI_APPLICATION = 'core.wsgi.application'
 
