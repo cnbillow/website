@@ -40,6 +40,7 @@ INSTALLED_APPS = [
 
     'akun.apps.AkunConfig',
     'peserta.apps.PesertaConfig',
+    'soal.apps.SoalConfig',
 ]
 
 MIDDLEWARE = [
