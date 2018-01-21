@@ -1,0 +1,40 @@
+[
+{
+    "model": "peserta.biodata",
+    "pk": 1,
+    "fields": {
+        "user": 2,
+        "nuptk": "1237821683761283",
+        "nama_lengkap": "Imam Digmi",
+        "jenis_kelamin": "P",
+        "nomor_hp": "08970008875",
+        "tempat_lahir": "Jepara",
+        "tanggal_lahir": "2016-03-09",
+        "asal_sekolah": "SMKN 1 CIkedung",
+        "kecamatan": "Cikedu",
+        "kabupaten": "Indr",
+        "provinsi": "ja",
+        "created_at": "2018-01-21T08:20:00.757Z",
+        "updated_at": "2018-01-21T08:20:00.757Z"
+    }
+},
+{
+    "model": "peserta.biodata",
+    "pk": 2,
+    "fields": {
+        "user": 3,
+        "nuptk": "123987979",
+        "nama_lengkap": "Rizky D. Novyantika",
+        "jenis_kelamin": "W",
+        "nomor_hp": "082226444428",
+        "tempat_lahir": "Indramayu",
+        "tanggal_lahir": "2018-01-16",
+        "asal_sekolah": "SMKN 1 Anjatan",
+        "kecamatan": "Anjata",
+        "kabupaten": "Indr",
+        "provinsi": "Ja",
+        "created_at": "2018-01-21T08:43:35.212Z",
+        "updated_at": "2018-01-21T08:43:35.212Z"
+    }
+}
+]
