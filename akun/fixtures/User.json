@@ -1,0 +1,35 @@
+[
+{
+    "model": "akun.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$100000$AOyKYip8diE6$ja6U/s0xW3BKEZrQk7yjmmXOvbrv/mfm1OMrnL7Z5us=",
+        "last_login": "2018-01-21T08:42:11.173Z",
+        "email": "root@gmail.com",
+        "is_active": true,
+        "is_admin": true
+    }
+},
+{
+    "model": "akun.user",
+    "pk": 2,
+    "fields": {
+        "password": "pbkdf2_sha256$100000$YQriqNRrokWe$Tr7XxmMQ1chpXolHWY6pkKmrQsUFBH4h8MplsLTOln8=",
+        "last_login": "2018-01-21T08:16:32.836Z",
+        "email": "imam.digmi@gmail.com",
+        "is_active": true,
+        "is_admin": false
+    }
+},
+{
+    "model": "akun.user",
+    "pk": 3,
+    "fields": {
+        "password": "pbkdf2_sha256$100000$gmyRLeisL9PF$4LlWSmXyLwOB2Ly8ERyLPUDEZ0JXWzb4bog7IvSD7kw=",
+        "last_login": "2018-01-21T08:42:02.463Z",
+        "email": "rdnovyantika@gmail.com",
+        "is_active": true,
+        "is_admin": false
+    }
+}
+]
