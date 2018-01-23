@@ -60,7 +60,7 @@ class Hasil(models.Model):
         ordering = ['-created_at', '-updated_at']
 
     def __str__(self):
-        return self.peserta.nama
+        return self.kegiatan
 
 
 class Saran(models.Model):
