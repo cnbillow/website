@@ -40,7 +40,8 @@ INSTALLED_APPS = [
 
     'akun.apps.AkunConfig',
     'peserta.apps.PesertaConfig',
-    'soal.apps.SoalConfig',
+    'tes.apps.TesConfig',
+    'evaluasi.apps.EvaluasiConfig',
 ]
 
 MIDDLEWARE = [
