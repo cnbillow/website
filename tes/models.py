@@ -10,7 +10,7 @@ class Soal(models.Model):
     updated_at = models.DateTimeField(auto_now=True)
 
     class Meta:
-        ordering = ['-created_at', '-updated_at']
+        ordering = ('created_at', 'updated_at')
 
     def __str__(self):
         return self.soal
@@ -27,7 +27,7 @@ class PilihanSoal(models.Model):
     updated_at = models.DateTimeField(auto_now=True)
 
     class Meta:
-        ordering = ['-created_at', '-updated_at']
+        ordering = ('created_at', 'updated_at')
 
     def __str__(self):
         return self.pilihan
@@ -53,7 +53,7 @@ class Konfigurasi(models.Model):
     updated_at = models.DateTimeField(auto_now=True)
 
     class Meta:
-        ordering = ['-created_at', '-updated_at']
+        ordering = ('created_at', 'updated_at')
 
     def __str__(self):
         return self.kegiatan
