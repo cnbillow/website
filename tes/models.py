@@ -1,11 +1,10 @@
 from django.db import models
 
-
 class Soal(models.Model):
     KUNCI_JAWABAN = (("A", "A"), ("B", "B"), ("C", "C"), ("D", "D"), ("E", "E"),)
 
     soal = models.TextField()
-    kunci_jawaban = models.CharField(max_length=1, default="A", choices=KUNCI_JAWABAN)
+    kunci_jawaban = models.CharField(max_length=1, choices=KUNCI_JAWABAN)
 
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
@@ -18,11 +17,11 @@ class Soal(models.Model):
 
 
 class PilihanSoal(models.Model):
-    KUNCI_JAWABAN = (("A", "A"), ("B", "B"), ("C", "C"), ("D", "D"), ("E", "E"),)
+    JAWABAN = (("A", "A"), ("B", "B"), ("C", "C"), ("D", "D"), ("E", "E"),)
 
     soal = models.ForeignKey(Soal, on_delete=models.CASCADE)
     pilihan = models.CharField(max_length=255)
-    jawaban = models.CharField(max_length=1, default="A", choices=KUNCI_JAWABAN)
+    jawaban = models.CharField(max_length=1, choices=JAWABAN)
 
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)

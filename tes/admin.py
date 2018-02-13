@@ -4,12 +4,17 @@ from .models import Soal, PilihanSoal
 
 class PilihanSoalInline(admin.TabularInline):
     model = PilihanSoal
-    extra = 4
-
+    extra = 5
+    verbose_name_plural = 'Pilihan Ganda'
+    
 
 class SoalAdmin(admin.ModelAdmin):
     fieldsets = [
-        ('Soal Test', {'fields': ['soal', 'kunci_jawaban']}),
+        ('SOAL', {'fields': ['soal', 'kunci_jawaban']}),
+    ]
+    inline_initial_data = [
+        {'title': 'choice_1'},
+        {'title': 'choice_2'}
     ]
     inlines = [PilihanSoalInline]
     list_display = ('soal', 'kunci_jawaban', 'created_at', 'updated_at')
