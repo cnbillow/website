@@ -21,6 +21,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
 
     # API
-    path('api/v1/peserta/', include('peserta.api.urls')),
     path('api/v1/tes/', include('tes.api.urls')),
 ]
