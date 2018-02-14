@@ -13,9 +13,9 @@ class SoalAdmin(admin.ModelAdmin):
         ('SOAL', {'fields': ['soal', 'kegiatan', 'kunci_jawaban']}),
     ]
     inlines = [PilihanSoalInline]
-    list_display = ('soal', 'kunci_jawaban', 'created_at', 'updated_at')
-    list_filter = ['created_at']
-    search_fields = ['soal']
+    list_display = ('soal', 'kegiatan', 'kunci_jawaban', 'created_at', 'updated_at')
+    list_filter = ['kegiatan', 'created_at']
+    search_fields = ['soal', 'kegiatan']
     list_per_page = 25
 
 
