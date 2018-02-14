@@ -108,5 +108,335 @@
         "created_at": "2018-02-14T09:11:55.831Z",
         "updated_at": "2018-02-14T09:11:55.831Z"
     }
+},
+{
+    "model": "tes.soal",
+    "pk": 11,
+    "fields": {
+        "soal": "Tujuan penerapan sistem manajemen keselamatan dan kesehatan kerja, adalah \u2026\u2026",
+        "kegiatan": "K3",
+        "kunci_jawaban": "A",
+        "created_at": "2018-02-14T15:09:23.916Z",
+        "updated_at": "2018-02-14T15:09:23.916Z"
+    }
+},
+{
+    "model": "tes.soal",
+    "pk": 12,
+    "fields": {
+        "soal": "Salah satu prinsip dasar sistem manajemen K3, adalah \u2026\u2026",
+        "kegiatan": "K3",
+        "kunci_jawaban": "C",
+        "created_at": "2018-02-14T15:10:27.581Z",
+        "updated_at": "2018-02-14T15:10:27.581Z"
+    }
+},
+{
+    "model": "tes.soal",
+    "pk": 13,
+    "fields": {
+        "soal": "Kondisi tidak aman disebabkan oleh beberapa hal, salah satunya adalah \u2026\u2026\u2026\u2026",
+        "kegiatan": "K3",
+        "kunci_jawaban": "D",
+        "created_at": "2018-02-14T15:11:39.939Z",
+        "updated_at": "2018-02-14T15:11:39.939Z"
+    }
+},
+{
+    "model": "tes.soal",
+    "pk": 14,
+    "fields": {
+        "soal": "Bentuk tindakan tidak aman ada beberapa hal, salah satunya adalah \u2026\u2026\u2026",
+        "kegiatan": "K3",
+        "kunci_jawaban": "B",
+        "created_at": "2018-02-14T15:12:40.428Z",
+        "updated_at": "2018-02-14T15:12:40.428Z"
+    }
+},
+{
+    "model": "tes.soal",
+    "pk": 15,
+    "fields": {
+        "soal": "Untuk pencegahan kecelakaan kerja sangat penting artinya dilakukan \u2026\u2026\u2026\u2026\u2026\u2026yang terdapat dan\r\nmungkin menimbulkan insiden kecelakaan di tempat kerja.",
+        "kegiatan": "K3",
+        "kunci_jawaban": "D",
+        "created_at": "2018-02-14T15:13:25.539Z",
+        "updated_at": "2018-02-14T15:13:25.539Z"
+    }
+},
+{
+    "model": "tes.soal",
+    "pk": 16,
+    "fields": {
+        "soal": "Definisi keselamatan dan kesehatan kerja menurut OHSAS",
+        "kegiatan": "K3",
+        "kunci_jawaban": "A",
+        "created_at": "2018-02-14T15:14:05.826Z",
+        "updated_at": "2018-02-14T15:14:05.826Z"
+    }
+},
+{
+    "model": "tes.soal",
+    "pk": 17,
+    "fields": {
+        "soal": "Sedang yang dimaksud dengan tempat kerja adalah",
+        "kegiatan": "K3",
+        "kunci_jawaban": "B",
+        "created_at": "2018-02-14T15:14:37.747Z",
+        "updated_at": "2018-02-14T15:14:37.747Z"
+    }
+},
+{
+    "model": "tes.soal",
+    "pk": 18,
+    "fields": {
+        "soal": "Jenis api kebakaran dapat dibedakan menurut kelas-kelas asal apinya, Api kelas A adalah",
+        "kegiatan": "K3",
+        "kunci_jawaban": "C",
+        "created_at": "2018-02-14T15:15:20.676Z",
+        "updated_at": "2018-02-14T15:15:20.676Z"
+    }
+},
+{
+    "model": "tes.soal",
+    "pk": 19,
+    "fields": {
+        "soal": "Pada setiap tabung kebakaran ( extinguisher ) selalu diberi keterangan, baik tipe maupun penggunaannya,\r\nTabung bersimbol huruf B yang terletak dalam segitiga warna hijau, dapat dipakai untuk memadamkan",
+        "kegiatan": "K3",
+        "kunci_jawaban": "D",
+        "created_at": "2018-02-14T15:16:00.657Z",
+        "updated_at": "2018-02-14T15:16:00.657Z"
+    }
+},
+{
+    "model": "tes.soal",
+    "pk": 20,
+    "fields": {
+        "soal": "Potensi Bahaya dan Risiko Terhadap Keselamatan dan Kesehatan Kerja dapat dikategorikan menjadi 4\r\ngolongan/tipe, kategori A adalah",
+        "kegiatan": "K3",
+        "kunci_jawaban": "A",
+        "created_at": "2018-02-14T15:16:42.778Z",
+        "updated_at": "2018-02-14T15:16:42.778Z"
+    }
+},
+{
+    "model": "tes.soal",
+    "pk": 21,
+    "fields": {
+        "soal": "Pasal 1 ayat (1) UU No. 39 Tahun 1999 tentang Hak Asasi Manusia menyebutkan bahwa Hak Asasi Manusia (HAM) adalah :",
+        "kegiatan": "PP",
+        "kunci_jawaban": "C",
+        "created_at": "2018-02-14T15:18:00.792Z",
+        "updated_at": "2018-02-14T15:18:00.792Z"
+    }
+},
+{
+    "model": "tes.soal",
+    "pk": 22,
+    "fields": {
+        "soal": "Berikut ini adalah prinsip-prinsip Hak Asasi Manusia, kecuali :",
+        "kegiatan": "PP",
+        "kunci_jawaban": "A",
+        "created_at": "2018-02-14T15:18:46.645Z",
+        "updated_at": "2018-02-14T15:18:46.645Z"
+    }
+},
+{
+    "model": "tes.soal",
+    "pk": 23,
+    "fields": {
+        "soal": "Pernyataan di bawah ini adalah korelasi antara Pancasila dan HAM, mana yang menurut anda paling tepat\r\nmenunjukkan korelasi tersebut?",
+        "kegiatan": "PP",
+        "kunci_jawaban": "B",
+        "created_at": "2018-02-14T15:19:38.642Z",
+        "updated_at": "2018-02-14T15:19:38.642Z"
+    }
+},
+{
+    "model": "tes.soal",
+    "pk": 24,
+    "fields": {
+        "soal": "Menurut teori kontrak social, tanggung jawab Negara atas hak asasi warga negaranya terjadi karena:",
+        "kegiatan": "PP",
+        "kunci_jawaban": "D",
+        "created_at": "2018-02-14T15:20:23.158Z",
+        "updated_at": "2018-02-14T15:20:23.158Z"
+    }
+},
+{
+    "model": "tes.soal",
+    "pk": 25,
+    "fields": {
+        "soal": "Negara memiliki tanggung jawab untuk menghormati, melindungi, menegakkan, memenuhi dan\r\nmemajukan Hak Asasi Manusia warga negaranya. Hal tersebut diatur dalam :",
+        "kegiatan": "PP",
+        "kunci_jawaban": "D",
+        "created_at": "2018-02-14T15:21:10.586Z",
+        "updated_at": "2018-02-14T15:21:10.586Z"
+    }
+},
+{
+    "model": "tes.soal",
+    "pk": 26,
+    "fields": {
+        "soal": "Menurut anda, mengapa guru, sekolah dan tenaga kependidikan lainnya memiliki tanggung jawab sebagai\r\nrepresentasi Negara dalam penghormatan, perlindungan dan pemenuhan HAM khususnya dalam bidang\r\npendidikan?",
+        "kegiatan": "PP",
+        "kunci_jawaban": "C",
+        "created_at": "2018-02-14T15:21:54.995Z",
+        "updated_at": "2018-02-14T15:21:54.995Z"
+    }
+},
+{
+    "model": "tes.soal",
+    "pk": 27,
+    "fields": {
+        "soal": "Kaitannya dengan guru, yang dimaksud pelanggaran etika adalah :",
+        "kegiatan": "PP",
+        "kunci_jawaban": "A",
+        "created_at": "2018-02-14T15:22:48.815Z",
+        "updated_at": "2018-02-14T15:22:48.815Z"
+    }
+},
+{
+    "model": "tes.soal",
+    "pk": 28,
+    "fields": {
+        "soal": "Korelasi antara pelanggaran etika, pelanggaran hukum dan pelanggaran HAM seperti disebutkan di bawah\r\nini, kecuali :",
+        "kegiatan": "PP",
+        "kunci_jawaban": "E",
+        "created_at": "2018-02-14T15:23:49.454Z",
+        "updated_at": "2018-02-14T15:23:49.454Z"
+    }
+},
+{
+    "model": "tes.soal",
+    "pk": 29,
+    "fields": {
+        "soal": "Mengacu pada korelasi antara pelanggaran etika, pelanggaran hukum dan pelanggaran HAM, maka\r\ntindakan guru ketika melanggar Kode Etik adalah :",
+        "kegiatan": "PP",
+        "kunci_jawaban": "E",
+        "created_at": "2018-02-14T15:24:34.540Z",
+        "updated_at": "2018-02-14T15:24:34.540Z"
+    }
+},
+{
+    "model": "tes.soal",
+    "pk": 30,
+    "fields": {
+        "soal": "Gara-gara AP (14) siswi kelas 2 terlambat, guru olah raga (Bd) sebuah SMP di kota B memerintahkan\r\nteman sekelas cubit AP (Merdeka.com)\u2026.\u201dAP dicubiti 30 rekan sekelasnya gara-gara instruksi Bd\r\ndengan alasan terlambat sekolah. Rekannya pun akhirnya mengindahkan instruksi tersebut. Akibatnya AP\r\nmengalami luka di lengan kirinya karena penganiayaan yang dilakukan teman-temannya tersebut.\r\nPeristiwa itu terjadi ketika murid tengah mengikuti mata pelajaran olah raga, dalam pelajaran tersebut Bd\r\nmenginstruksikan agar muridnya berbaris untuk mencubiti AP\u201d. Menurut anda, dalam kasus ini Bd telah\r\nmelakukan pelanggaran :",
+        "kegiatan": "PP",
+        "kunci_jawaban": "C",
+        "created_at": "2018-02-14T15:25:21.558Z",
+        "updated_at": "2018-02-14T15:25:21.558Z"
+    }
+},
+{
+    "model": "tes.soal",
+    "pk": 31,
+    "fields": {
+        "soal": "Segala bentuk tindakan kekerasan di lingkungan satuan pendidikan, asalkan dilandasi dengan niat baik\r\ndan tujuan mendidik anak, maka:",
+        "kegiatan": "PP",
+        "kunci_jawaban": "B",
+        "created_at": "2018-02-14T15:26:09.034Z",
+        "updated_at": "2018-02-14T15:26:09.034Z"
+    }
+},
+{
+    "model": "tes.soal",
+    "pk": 32,
+    "fields": {
+        "soal": "Bentuk tindakan mencubit, menendang dan memukul merupakan cara mendisiplinkan anak yang dapat\r\ndikategorikan sebagai;",
+        "kegiatan": "PP",
+        "kunci_jawaban": "A",
+        "created_at": "2018-02-14T15:26:52.436Z",
+        "updated_at": "2018-02-14T15:26:52.436Z"
+    }
+},
+{
+    "model": "tes.soal",
+    "pk": 33,
+    "fields": {
+        "soal": "Menurut UU No. 35 Tahun 2014 Pasal 1 tentang Perlindungan Anak, kekerasan adalah;",
+        "kegiatan": "PP",
+        "kunci_jawaban": "C",
+        "created_at": "2018-02-14T15:27:39.766Z",
+        "updated_at": "2018-02-14T15:27:39.766Z"
+    }
+},
+{
+    "model": "tes.soal",
+    "pk": 34,
+    "fields": {
+        "soal": "Berikut ini yang dapat dikategorikan sebagai kekerasan verbal, kecuali;",
+        "kegiatan": "PP",
+        "kunci_jawaban": "D",
+        "created_at": "2018-02-14T15:28:24.817Z",
+        "updated_at": "2018-02-14T15:28:24.817Z"
+    }
+},
+{
+    "model": "tes.soal",
+    "pk": 35,
+    "fields": {
+        "soal": "Berikut ini tidak termasuk kekerasan psikis, yaitu:",
+        "kegiatan": "PP",
+        "kunci_jawaban": "D",
+        "created_at": "2018-02-14T15:29:09.357Z",
+        "updated_at": "2018-02-14T15:29:09.357Z"
+    }
+},
+{
+    "model": "tes.soal",
+    "pk": 36,
+    "fields": {
+        "soal": "Faktor pemicu kekerasan yang dilakukan oleh pendidik di satuan pendidikan, dipengaruhi oleh beberapa\r\nfaktor mendasar, kecuali",
+        "kegiatan": "PP",
+        "kunci_jawaban": "E",
+        "created_at": "2018-02-14T15:29:55.371Z",
+        "updated_at": "2018-02-14T15:29:55.371Z"
+    }
+},
+{
+    "model": "tes.soal",
+    "pk": 37,
+    "fields": {
+        "soal": "Pendisiplinan adalah usaha untuk menanamkan nilai agar subjek memiliki kemampuan untuk menaati\r\nsebuah norma. Secara konsep, pendisiplinan adalah;",
+        "kegiatan": "PP",
+        "kunci_jawaban": "B",
+        "created_at": "2018-02-14T15:30:39.891Z",
+        "updated_at": "2018-02-14T15:30:39.891Z"
+    }
+},
+{
+    "model": "tes.soal",
+    "pk": 38,
+    "fields": {
+        "soal": "Dalam praktek pendidikan, hukuman yang bermuatan kekerasan dapat;",
+        "kegiatan": "PP",
+        "kunci_jawaban": "B",
+        "created_at": "2018-02-14T15:31:21.327Z",
+        "updated_at": "2018-02-14T15:31:21.327Z"
+    }
+},
+{
+    "model": "tes.soal",
+    "pk": 39,
+    "fields": {
+        "soal": "Dalam hal relasi guru dan siswa, ketentuan yang terkandung dalam UU Nomor 35 Tahun 2014 tentang\r\nPerlindungan Anak, adalah:",
+        "kegiatan": "PP",
+        "kunci_jawaban": "B",
+        "created_at": "2018-02-14T15:32:26.439Z",
+        "updated_at": "2018-02-14T15:32:26.439Z"
+    }
+},
+{
+    "model": "tes.soal",
+    "pk": 40,
+    "fields": {
+        "soal": "Menurut Peraturan Menteri Pendidikan dan Kebudayaan Nomor 82 tahun 2015 tentang Pencegahan dan\r\nPenanggulangan Tindak Kekerasan di Lingkungan Satuan Pendidikan, Pasal 7 menegaskan bahwa\r\n\u201cPencegahan tindak kekerasan di lingkungan satuan pendidikan dilakukan oleh;",
+        "kegiatan": "PP",
+        "kunci_jawaban": "D",
+        "created_at": "2018-02-14T15:34:19.730Z",
+        "updated_at": "2018-02-14T15:34:19.730Z"
+    }
 }
 ]

@@ -438,5 +438,1545 @@
         "created_at": "2018-02-14T09:11:55.854Z",
         "updated_at": "2018-02-14T09:11:55.854Z"
     }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 41,
+    "fields": {
+        "soal": 11,
+        "pilihan": "Menciptakan tempat kerja yang aman, nyaman, dan efisien untuk mendorong produktifitas",
+        "jawaban": "A",
+        "created_at": "2018-02-14T15:09:23.917Z",
+        "updated_at": "2018-02-14T15:09:23.917Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 42,
+    "fields": {
+        "soal": 11,
+        "pilihan": "Mencegah kecelakaan kerja dan penyakit akibat kerja",
+        "jawaban": "B",
+        "created_at": "2018-02-14T15:09:23.917Z",
+        "updated_at": "2018-02-14T15:09:23.917Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 43,
+    "fields": {
+        "soal": 11,
+        "pilihan": "Meningkatkan efektifitas perlindungan K3 yang terencana",
+        "jawaban": "C",
+        "created_at": "2018-02-14T15:09:23.918Z",
+        "updated_at": "2018-02-14T15:09:23.918Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 44,
+    "fields": {
+        "soal": 11,
+        "pilihan": "Meningkatkan produktifitas kerja",
+        "jawaban": "D",
+        "created_at": "2018-02-14T15:09:23.918Z",
+        "updated_at": "2018-02-14T15:09:23.918Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 45,
+    "fields": {
+        "soal": 12,
+        "pilihan": "Meningkatkan produktifitas",
+        "jawaban": "A",
+        "created_at": "2018-02-14T15:10:27.582Z",
+        "updated_at": "2018-02-14T15:10:27.582Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 46,
+    "fields": {
+        "soal": 12,
+        "pilihan": "Membuat sistem manajemen yang modern",
+        "jawaban": "B",
+        "created_at": "2018-02-14T15:10:27.582Z",
+        "updated_at": "2018-02-14T15:10:27.582Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 47,
+    "fields": {
+        "soal": 12,
+        "pilihan": "Menetapkan kebijakan K3",
+        "jawaban": "C",
+        "created_at": "2018-02-14T15:10:27.582Z",
+        "updated_at": "2018-02-14T15:10:27.582Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 48,
+    "fields": {
+        "soal": 12,
+        "pilihan": "Mengurangi kecelakaan kerja",
+        "jawaban": "D",
+        "created_at": "2018-02-14T15:10:27.592Z",
+        "updated_at": "2018-02-14T15:10:27.592Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 49,
+    "fields": {
+        "soal": 13,
+        "pilihan": "Kondisi suhu ruang kerja sejuk ber-AC",
+        "jawaban": "A",
+        "created_at": "2018-02-14T15:11:39.940Z",
+        "updated_at": "2018-02-14T15:11:39.940Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 50,
+    "fields": {
+        "soal": 13,
+        "pilihan": "Pencahayaan dan ventilasi memadai",
+        "jawaban": "B",
+        "created_at": "2018-02-14T15:11:39.949Z",
+        "updated_at": "2018-02-14T15:11:39.949Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 51,
+    "fields": {
+        "soal": 13,
+        "pilihan": "Kondisi mesin ada pengaman",
+        "jawaban": "C",
+        "created_at": "2018-02-14T15:11:39.950Z",
+        "updated_at": "2018-02-14T15:11:39.950Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 52,
+    "fields": {
+        "soal": 13,
+        "pilihan": "Peralatan yang sudah tidak layak pakai",
+        "jawaban": "D",
+        "created_at": "2018-02-14T15:11:39.950Z",
+        "updated_at": "2018-02-14T15:11:39.950Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 53,
+    "fields": {
+        "soal": 14,
+        "pilihan": "Mengangkat beban dengan punggung yang lurus",
+        "jawaban": "A",
+        "created_at": "2018-02-14T15:12:40.429Z",
+        "updated_at": "2018-02-14T15:12:40.429Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 54,
+    "fields": {
+        "soal": 14,
+        "pilihan": "Mengoperasikan mesin yang tidak sesuai dengan keahliannya",
+        "jawaban": "B",
+        "created_at": "2018-02-14T15:12:40.429Z",
+        "updated_at": "2018-02-14T15:12:40.429Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 55,
+    "fields": {
+        "soal": 14,
+        "pilihan": "Menggunakan APD sesuai dengan fungsinya",
+        "jawaban": "C",
+        "created_at": "2018-02-14T15:12:40.439Z",
+        "updated_at": "2018-02-14T15:12:40.439Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 56,
+    "fields": {
+        "soal": 14,
+        "pilihan": "Mematuhi standar operasional prosedur (SOP)",
+        "jawaban": "D",
+        "created_at": "2018-02-14T15:12:40.439Z",
+        "updated_at": "2018-02-14T15:12:40.439Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 57,
+    "fields": {
+        "soal": 15,
+        "pilihan": "Investigasi kecelakaan",
+        "jawaban": "A",
+        "created_at": "2018-02-14T15:13:25.539Z",
+        "updated_at": "2018-02-14T15:13:25.539Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 58,
+    "fields": {
+        "soal": 15,
+        "pilihan": "Evaluasi kejadian",
+        "jawaban": "B",
+        "created_at": "2018-02-14T15:13:25.540Z",
+        "updated_at": "2018-02-14T15:13:25.540Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 59,
+    "fields": {
+        "soal": 15,
+        "pilihan": "Pengenalan kondisi lingkungan",
+        "jawaban": "C",
+        "created_at": "2018-02-14T15:13:25.540Z",
+        "updated_at": "2018-02-14T15:13:25.540Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 60,
+    "fields": {
+        "soal": 15,
+        "pilihan": "Identifikasi bahaya",
+        "jawaban": "D",
+        "created_at": "2018-02-14T15:13:25.541Z",
+        "updated_at": "2018-02-14T15:13:25.541Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 61,
+    "fields": {
+        "soal": 16,
+        "pilihan": "Semua kondisi dan faktor yang dapat berdampak pada keselamatan dan kesehatan kerja tenaga kerja maupun orang lain (kontraktor, pemasok, pengunjung dan tamu) di tempat kerja",
+        "jawaban": "A",
+        "created_at": "2018-02-14T15:14:05.827Z",
+        "updated_at": "2018-02-14T15:14:05.827Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 62,
+    "fields": {
+        "soal": 16,
+        "pilihan": "Semua kondisi dan faktor yang dapat berdampak pada keselamatan dan kesehatan kerja pekerja",
+        "jawaban": "B",
+        "created_at": "2018-02-14T15:14:05.831Z",
+        "updated_at": "2018-02-14T15:14:05.831Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 63,
+    "fields": {
+        "soal": 16,
+        "pilihan": "Semua kondisi dan faktor yang tidak berdampak pada keselamatan dan kesehatan kerja tenaga kerja maupun orang lain(kontraktor, pemasok, pengunjung dan tamu) di tempat kerja",
+        "jawaban": "C",
+        "created_at": "2018-02-14T15:14:05.838Z",
+        "updated_at": "2018-02-14T15:14:05.838Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 64,
+    "fields": {
+        "soal": 16,
+        "pilihan": "Semua kondisi dan faktor yang tidak berdampak pada keselamatan dan kesehatan kerja pekerja",
+        "jawaban": "D",
+        "created_at": "2018-02-14T15:14:05.838Z",
+        "updated_at": "2018-02-14T15:14:05.838Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 65,
+    "fields": {
+        "soal": 17,
+        "pilihan": "Setiap ruangan tertutup, dimana terdapat tenaga kerja yang bekerja dan adanya sumber bahaya yang memungkinkan terjadinya kecelakaan kerja",
+        "jawaban": "A",
+        "created_at": "2018-02-14T15:14:37.748Z",
+        "updated_at": "2018-02-14T15:14:37.748Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 66,
+    "fields": {
+        "soal": 17,
+        "pilihan": "Setiap ruang baik yang terbuka, tertutup, bergerak, tetap, dimana terdapat tenaga kerja yang bekerja dan adanya sumber bahaya yang memungkinkan terjadinya kecelakaan kerja.",
+        "jawaban": "B",
+        "created_at": "2018-02-14T15:14:37.749Z",
+        "updated_at": "2018-02-14T15:14:37.749Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 67,
+    "fields": {
+        "soal": 17,
+        "pilihan": "Setiap ruang baik yang terbuka, tertutup, bergerak, tetap, dimana terdapat tenaga kerja yang bekerja",
+        "jawaban": "C",
+        "created_at": "2018-02-14T15:14:37.749Z",
+        "updated_at": "2018-02-14T15:14:37.749Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 68,
+    "fields": {
+        "soal": 17,
+        "pilihan": "Setiap ruangan terbuka, dimana terdapat tenaga kerja yang bekerja dan adanya sumber bahaya yang memungkinkan terjadinya kecelakaan kerja.",
+        "jawaban": "D",
+        "created_at": "2018-02-14T15:14:37.749Z",
+        "updated_at": "2018-02-14T15:14:37.749Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 69,
+    "fields": {
+        "soal": 18,
+        "pilihan": "Api yang ditimbulkan oleh kebakaran logam seperti potassium, sodium, magnesium dan sebagainya",
+        "jawaban": "A",
+        "created_at": "2018-02-14T15:15:20.677Z",
+        "updated_at": "2018-02-14T15:15:20.677Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 70,
+    "fields": {
+        "soal": 18,
+        "pilihan": "Api yang ditimbulkan oleh kebakaran akibat arus listrik",
+        "jawaban": "B",
+        "created_at": "2018-02-14T15:15:20.677Z",
+        "updated_at": "2018-02-14T15:15:20.677Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 71,
+    "fields": {
+        "soal": 18,
+        "pilihan": "Api yang ditimbulkan oleh kebakaran benda padat seperti kayu, kertas, tekstil, plastik dan sebagainya",
+        "jawaban": "C",
+        "created_at": "2018-02-14T15:15:20.682Z",
+        "updated_at": "2018-02-14T15:15:20.682Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 72,
+    "fields": {
+        "soal": 18,
+        "pilihan": "Api yang ditimbulkan oleh kebakaran benda cair seperti bensin, minyak, solar, cat, ter, terpentin, dan sebagainya",
+        "jawaban": "D",
+        "created_at": "2018-02-14T15:15:20.682Z",
+        "updated_at": "2018-02-14T15:15:20.682Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 73,
+    "fields": {
+        "soal": 19,
+        "pilihan": "Kebakaran dari logam, seperti magnesium, potassium, sodium, titanium, dan sebagainya.",
+        "jawaban": "A",
+        "created_at": "2018-02-14T15:16:00.658Z",
+        "updated_at": "2018-02-14T15:16:00.658Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 74,
+    "fields": {
+        "soal": 19,
+        "pilihan": "Kebakaran dari kayu, kertas, kain, plastik dan sebagainya",
+        "jawaban": "B",
+        "created_at": "2018-02-14T15:16:00.662Z",
+        "updated_at": "2018-02-14T15:16:00.662Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 75,
+    "fields": {
+        "soal": 19,
+        "pilihan": "Kebakaran api listrik, atau api akibat terbakarnya isolasi listrik, atau pemadaman terhadap panel sekelar-sekelar, motor-motor listrik dan sebagainya.",
+        "jawaban": "C",
+        "created_at": "2018-02-14T15:16:00.662Z",
+        "updated_at": "2018-02-14T15:16:00.662Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 76,
+    "fields": {
+        "soal": 19,
+        "pilihan": "Kebakaran yang berasal dari jenis minyak, cat, ter, terpentin dan sebagainya.",
+        "jawaban": "D",
+        "created_at": "2018-02-14T15:16:00.662Z",
+        "updated_at": "2018-02-14T15:16:00.662Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 77,
+    "fields": {
+        "soal": 20,
+        "pilihan": "Potensi bahaya yang mengakibatkan dampak risiko jangka panjang pada kesehatan",
+        "jawaban": "A",
+        "created_at": "2018-02-14T15:16:42.778Z",
+        "updated_at": "2018-02-14T15:16:42.778Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 78,
+    "fields": {
+        "soal": 20,
+        "pilihan": "Risiko pribadi dan psikologis",
+        "jawaban": "B",
+        "created_at": "2018-02-14T15:16:42.779Z",
+        "updated_at": "2018-02-14T15:16:42.779Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 79,
+    "fields": {
+        "soal": 20,
+        "pilihan": "Risiko terhadap kesejahteraan atau kenyamanan",
+        "jawaban": "C",
+        "created_at": "2018-02-14T15:16:42.779Z",
+        "updated_at": "2018-02-14T15:16:42.779Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 80,
+    "fields": {
+        "soal": 20,
+        "pilihan": "Potensi bahaya yang mengakibatkan risiko langsung pada keselamatan",
+        "jawaban": "D",
+        "created_at": "2018-02-14T15:16:42.783Z",
+        "updated_at": "2018-02-14T15:16:42.783Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 81,
+    "fields": {
+        "soal": 21,
+        "pilihan": "Hak yang didapat manusia setelah dia menjalankan kewajibannya;",
+        "jawaban": "A",
+        "created_at": "2018-02-14T15:18:00.793Z",
+        "updated_at": "2018-02-14T15:18:00.793Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 82,
+    "fields": {
+        "soal": 21,
+        "pilihan": "Hak yang didapat manusia sebagai warga negara yang diberikan Negara dan diatur dalam peraturan perundangan yang berlaku;",
+        "jawaban": "B",
+        "created_at": "2018-02-14T15:18:00.793Z",
+        "updated_at": "2018-02-14T15:18:00.793Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 83,
+    "fields": {
+        "soal": 21,
+        "pilihan": "Seperangkat hak yang melekat pada hakikatnya dan keberadaan manusia sebagai makhluk Tuhan Yang Maha Esa dan merupakan anugerah-nya yang wajib di hormati, dijunjung tinggi dan dilindungi oleh negara, hukum, Pemerintah, dan setiap orang demi kehormatan",
+        "jawaban": "C",
+        "created_at": "2018-02-14T15:18:00.793Z",
+        "updated_at": "2018-02-14T15:18:00.793Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 84,
+    "fields": {
+        "soal": 21,
+        "pilihan": "Seperangkat hak yang didapat manusia sejak dia lahir, melekat pada martabatnya dan diberikan Tuhan Yang Maha Esa yang wajib di hormati, dijunjung tinggi dan dilindungi.",
+        "jawaban": "D",
+        "created_at": "2018-02-14T15:18:00.794Z",
+        "updated_at": "2018-02-14T15:18:00.794Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 85,
+    "fields": {
+        "soal": 21,
+        "pilihan": "Hak yang didapat manusia sebagai warga negara yang diberikan Negara saja",
+        "jawaban": "E",
+        "created_at": "2018-02-14T15:18:00.794Z",
+        "updated_at": "2018-02-14T15:18:00.794Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 86,
+    "fields": {
+        "soal": 22,
+        "pilihan": "Universal, martabat manusia, saling menghormati;",
+        "jawaban": "A",
+        "created_at": "2018-02-14T15:18:46.646Z",
+        "updated_at": "2018-02-14T15:18:46.646Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 87,
+    "fields": {
+        "soal": 22,
+        "pilihan": "Partisipasi, akuntabilitas, penegakan hukum;",
+        "jawaban": "B",
+        "created_at": "2018-02-14T15:18:46.646Z",
+        "updated_at": "2018-02-14T15:18:46.646Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 88,
+    "fields": {
+        "soal": 22,
+        "pilihan": "Kesetaraan, non diskriminasi, tidak dapat dicabut;",
+        "jawaban": "C",
+        "created_at": "2018-02-14T15:18:46.647Z",
+        "updated_at": "2018-02-14T15:18:46.647Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 89,
+    "fields": {
+        "soal": 22,
+        "pilihan": "Saling terkait dan bergantung, tidak dapat dibagi, universal.",
+        "jawaban": "D",
+        "created_at": "2018-02-14T15:18:46.647Z",
+        "updated_at": "2018-02-14T15:18:46.647Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 90,
+    "fields": {
+        "soal": 22,
+        "pilihan": "antung, tidak dapat dibagi, universal. E. S",
+        "jawaban": "E",
+        "created_at": "2018-02-14T15:18:46.653Z",
+        "updated_at": "2018-02-14T15:18:46.653Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 91,
+    "fields": {
+        "soal": 23,
+        "pilihan": "Pancasila murni milik Indonesia, HAM tidak semuanya bisa diterapkan di Indonesia;",
+        "jawaban": "A",
+        "created_at": "2018-02-14T15:19:38.642Z",
+        "updated_at": "2018-02-14T15:19:38.642Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 92,
+    "fields": {
+        "soal": 23,
+        "pilihan": "Ketika Pancasila sebagai ideologi bangsa diimplementasikan dengan baik, maka sebenarnya pemenuhan dan penegakan HAM telah pula dijalankan;",
+        "jawaban": "B",
+        "created_at": "2018-02-14T15:19:38.652Z",
+        "updated_at": "2018-02-14T15:19:38.652Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 93,
+    "fields": {
+        "soal": 23,
+        "pilihan": "Pancasila adalah HAM, dan HAM adalah Pancasila itu sendiri;",
+        "jawaban": "C",
+        "created_at": "2018-02-14T15:19:38.652Z",
+        "updated_at": "2018-02-14T15:19:38.652Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 94,
+    "fields": {
+        "soal": 23,
+        "pilihan": "Lahirnya Pancasila diinspirasi dari gerakan perjuangan penegakan HAM di masa perang dunia II.",
+        "jawaban": "D",
+        "created_at": "2018-02-14T15:19:38.652Z",
+        "updated_at": "2018-02-14T15:19:38.652Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 95,
+    "fields": {
+        "soal": 23,
+        "pilihan": "Pancasila adalah gerakan perjuangan penegakan HAM",
+        "jawaban": "E",
+        "created_at": "2018-02-14T15:19:38.653Z",
+        "updated_at": "2018-02-14T15:19:38.653Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 96,
+    "fields": {
+        "soal": 24,
+        "pilihan": "Negara adalah pemegang kekuasaan;",
+        "jawaban": "A",
+        "created_at": "2018-02-14T15:20:23.159Z",
+        "updated_at": "2018-02-14T15:20:23.159Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 97,
+    "fields": {
+        "soal": 24,
+        "pilihan": "Aturan hukum yang dibentuk Negara untuk mengatur hak asasi warganya;",
+        "jawaban": "B",
+        "created_at": "2018-02-14T15:20:23.159Z",
+        "updated_at": "2018-02-14T15:20:23.159Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 98,
+    "fields": {
+        "soal": 24,
+        "pilihan": "Kesepakatan masyarakat untuk diatur oleh Negara;",
+        "jawaban": "C",
+        "created_at": "2018-02-14T15:20:23.159Z",
+        "updated_at": "2018-02-14T15:20:23.159Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 99,
+    "fields": {
+        "soal": 24,
+        "pilihan": "Kesepakatan dan kesadaran individu/kelompok untuk menyerahkan hak-hak mereka pada Negara.",
+        "jawaban": "D",
+        "created_at": "2018-02-14T15:20:23.160Z",
+        "updated_at": "2018-02-14T15:20:23.160Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 100,
+    "fields": {
+        "soal": 24,
+        "pilihan": "Kesepakatan Negara untuk mengatur hak asasi warganya",
+        "jawaban": "E",
+        "created_at": "2018-02-14T15:20:23.160Z",
+        "updated_at": "2018-02-14T15:20:23.160Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 101,
+    "fields": {
+        "soal": 25,
+        "pilihan": "Amandemen IV UUD 1945;",
+        "jawaban": "A",
+        "created_at": "2018-02-14T15:21:10.586Z",
+        "updated_at": "2018-02-14T15:21:10.587Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 102,
+    "fields": {
+        "soal": 25,
+        "pilihan": "Deklarasi Universal Hak Asasi Manusia (DUHAM);",
+        "jawaban": "B",
+        "created_at": "2018-02-14T15:21:10.587Z",
+        "updated_at": "2018-02-14T15:21:10.587Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 103,
+    "fields": {
+        "soal": 25,
+        "pilihan": "UU No. 35 tahun 2015 tentang Perlindungan Anak;",
+        "jawaban": "C",
+        "created_at": "2018-02-14T15:21:10.587Z",
+        "updated_at": "2018-02-14T15:21:10.587Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 104,
+    "fields": {
+        "soal": 25,
+        "pilihan": "UU No. 39 tahun 1999 tentang Hak Asasi Manusia.",
+        "jawaban": "D",
+        "created_at": "2018-02-14T15:21:10.588Z",
+        "updated_at": "2018-02-14T15:21:10.588Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 105,
+    "fields": {
+        "soal": 25,
+        "pilihan": "UU No. 23 Tahun 2002",
+        "jawaban": "E",
+        "created_at": "2018-02-14T15:21:10.588Z",
+        "updated_at": "2018-02-14T15:21:10.588Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 106,
+    "fields": {
+        "soal": 26,
+        "pilihan": "Guru, sekolah dan tenaga kependidikan lainnya adalah pelaksana pendidikan;",
+        "jawaban": "A",
+        "created_at": "2018-02-14T15:21:54.995Z",
+        "updated_at": "2018-02-14T15:21:54.995Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 107,
+    "fields": {
+        "soal": 26,
+        "pilihan": "Guru, sekolah dan tenaga kependidikan lainnya termasuk aparatur Negara;",
+        "jawaban": "B",
+        "created_at": "2018-02-14T15:21:54.996Z",
+        "updated_at": "2018-02-14T15:21:54.996Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 108,
+    "fields": {
+        "soal": 26,
+        "pilihan": "Guru, sekolah dan tenaga kependidikan lainnya termasuk aparatur Negara dan pejabat publik yang mempunyai kewajiban dan tanggung jawab berdasar undang-undang;",
+        "jawaban": "C",
+        "created_at": "2018-02-14T15:21:54.996Z",
+        "updated_at": "2018-02-14T15:21:54.996Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 109,
+    "fields": {
+        "soal": 26,
+        "pilihan": "Guru, sekolah dan tenaga kependidikan lainnya adalah pejabat publik yang ditunjuk Negara untuk menjalankan pendidikan.",
+        "jawaban": "D",
+        "created_at": "2018-02-14T15:21:54.996Z",
+        "updated_at": "2018-02-14T15:21:54.996Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 110,
+    "fields": {
+        "soal": 26,
+        "pilihan": ". Guru, sekolah dan tenaga kependidikan",
+        "jawaban": "E",
+        "created_at": "2018-02-14T15:21:54.996Z",
+        "updated_at": "2018-02-14T15:21:54.996Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 111,
+    "fields": {
+        "soal": 27,
+        "pilihan": "Pelanggaran atau penyelewengan terhadap sistem norma, nilai dan aturan profesional tertulis yang secara tegas menyatakan apa yang benar dan baik, dan apa yang tidak benar dan tidak baik bagi suatu profesi dalam masyarakat;",
+        "jawaban": "A",
+        "created_at": "2018-02-14T15:22:48.815Z",
+        "updated_at": "2018-02-14T15:22:48.815Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 112,
+    "fields": {
+        "soal": 27,
+        "pilihan": "Pelanggaran atas nilai, norma, adat istiadat atau kebiasaan yang hidup dalam masyarakat;",
+        "jawaban": "B",
+        "created_at": "2018-02-14T15:22:48.820Z",
+        "updated_at": "2018-02-14T15:22:48.820Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 113,
+    "fields": {
+        "soal": 27,
+        "pilihan": "Pelanggaran kesusilaan dan kesopanan yang dilakukan guru di lingkungan sekolah;",
+        "jawaban": "C",
+        "created_at": "2018-02-14T15:22:48.820Z",
+        "updated_at": "2018-02-14T15:22:48.821Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 114,
+    "fields": {
+        "soal": 27,
+        "pilihan": "Pelanggaran tata tertib dan aturan sekolah",
+        "jawaban": "D",
+        "created_at": "2018-02-14T15:22:48.824Z",
+        "updated_at": "2018-02-14T15:22:48.824Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 115,
+    "fields": {
+        "soal": 27,
+        "pilihan": "Pelanggaran atau kesusilaan dan kesopanan",
+        "jawaban": "E",
+        "created_at": "2018-02-14T15:22:48.824Z",
+        "updated_at": "2018-02-14T15:22:48.824Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 116,
+    "fields": {
+        "soal": 28,
+        "pilihan": "Pelanggaran etika belum tentu Pelanggaran Hukum, sedangkan semua Pelanggaran Hukum adalah Pelanggaran Etika;",
+        "jawaban": "A",
+        "created_at": "2018-02-14T15:23:49.455Z",
+        "updated_at": "2018-02-14T15:23:49.455Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 117,
+    "fields": {
+        "soal": 28,
+        "pilihan": "Semua Pelanggaran etika adalah Pelanggaran HAM;",
+        "jawaban": "B",
+        "created_at": "2018-02-14T15:23:49.456Z",
+        "updated_at": "2018-02-14T15:23:49.456Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 118,
+    "fields": {
+        "soal": 28,
+        "pilihan": "Pelanggaran HAM belum tentu Pelanggaran Hukum, sedangkan semua Pelanggaran Hukum adalah Pelanggaran HAM;",
+        "jawaban": "C",
+        "created_at": "2018-02-14T15:23:49.456Z",
+        "updated_at": "2018-02-14T15:23:49.456Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 119,
+    "fields": {
+        "soal": 28,
+        "pilihan": "Pelanggaran hukum berarti pelanggaran terhadap peraturan perundangan",
+        "jawaban": "D",
+        "created_at": "2018-02-14T15:23:49.456Z",
+        "updated_at": "2018-02-14T15:23:49.456Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 120,
+    "fields": {
+        "soal": 28,
+        "pilihan": "A,B,C benar.",
+        "jawaban": "E",
+        "created_at": "2018-02-14T15:23:49.457Z",
+        "updated_at": "2018-02-14T15:23:49.457Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 121,
+    "fields": {
+        "soal": 29,
+        "pilihan": "Pelanggaran etika dan HAM",
+        "jawaban": "A",
+        "created_at": "2018-02-14T15:24:34.541Z",
+        "updated_at": "2018-02-14T15:24:34.541Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 122,
+    "fields": {
+        "soal": 29,
+        "pilihan": "Pelanggaran etika;",
+        "jawaban": "B",
+        "created_at": "2018-02-14T15:24:34.541Z",
+        "updated_at": "2018-02-14T15:24:34.541Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 123,
+    "fields": {
+        "soal": 29,
+        "pilihan": "Pelanggaran etika dan pelanggaran hukum;",
+        "jawaban": "C",
+        "created_at": "2018-02-14T15:24:34.541Z",
+        "updated_at": "2018-02-14T15:24:34.541Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 124,
+    "fields": {
+        "soal": 29,
+        "pilihan": "Pelanggaran atas ketiganya",
+        "jawaban": "D",
+        "created_at": "2018-02-14T15:24:34.542Z",
+        "updated_at": "2018-02-14T15:24:34.542Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 125,
+    "fields": {
+        "soal": 29,
+        "pilihan": "Pelanggaran HAM karena HAM adalah nilai-nilai itu sendiri",
+        "jawaban": "E",
+        "created_at": "2018-02-14T15:24:34.542Z",
+        "updated_at": "2018-02-14T15:24:34.542Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 126,
+    "fields": {
+        "soal": 30,
+        "pilihan": "Pelanggaran etika;",
+        "jawaban": "A",
+        "created_at": "2018-02-14T15:25:21.558Z",
+        "updated_at": "2018-02-14T15:25:21.558Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 127,
+    "fields": {
+        "soal": 30,
+        "pilihan": "Pelanggaran hukum;",
+        "jawaban": "B",
+        "created_at": "2018-02-14T15:25:21.559Z",
+        "updated_at": "2018-02-14T15:25:21.559Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 128,
+    "fields": {
+        "soal": 30,
+        "pilihan": "Pelanggaran ketiganya;",
+        "jawaban": "C",
+        "created_at": "2018-02-14T15:25:21.563Z",
+        "updated_at": "2018-02-14T15:25:21.563Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 129,
+    "fields": {
+        "soal": 30,
+        "pilihan": "Pelanggaran HAM.",
+        "jawaban": "D",
+        "created_at": "2018-02-14T15:25:21.564Z",
+        "updated_at": "2018-02-14T15:25:21.564Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 130,
+    "fields": {
+        "soal": 30,
+        "pilihan": "Pelanggaran nilai",
+        "jawaban": "E",
+        "created_at": "2018-02-14T15:25:21.564Z",
+        "updated_at": "2018-02-14T15:25:21.564Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 131,
+    "fields": {
+        "soal": 31,
+        "pilihan": "dapat dibenarkan",
+        "jawaban": "A",
+        "created_at": "2018-02-14T15:26:09.035Z",
+        "updated_at": "2018-02-14T15:26:09.035Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 132,
+    "fields": {
+        "soal": 31,
+        "pilihan": "tidak dapat dibenarkan",
+        "jawaban": "B",
+        "created_at": "2018-02-14T15:26:09.035Z",
+        "updated_at": "2018-02-14T15:26:09.035Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 133,
+    "fields": {
+        "soal": 31,
+        "pilihan": "belum tahu",
+        "jawaban": "C",
+        "created_at": "2018-02-14T15:26:09.036Z",
+        "updated_at": "2018-02-14T15:26:09.036Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 134,
+    "fields": {
+        "soal": 31,
+        "pilihan": "tidak jelas batasannya",
+        "jawaban": "D",
+        "created_at": "2018-02-14T15:26:09.036Z",
+        "updated_at": "2018-02-14T15:26:09.036Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 135,
+    "fields": {
+        "soal": 31,
+        "pilihan": "dapat diberitahu",
+        "jawaban": "E",
+        "created_at": "2018-02-14T15:26:09.036Z",
+        "updated_at": "2018-02-14T15:26:09.036Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 136,
+    "fields": {
+        "soal": 32,
+        "pilihan": "Tindakan kekerasan",
+        "jawaban": "A",
+        "created_at": "2018-02-14T15:26:52.437Z",
+        "updated_at": "2018-02-14T15:26:52.437Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 137,
+    "fields": {
+        "soal": 32,
+        "pilihan": "Pola pendisiplinan yang sangat dibutuhkan",
+        "jawaban": "B",
+        "created_at": "2018-02-14T15:26:52.446Z",
+        "updated_at": "2018-02-14T15:26:52.446Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 138,
+    "fields": {
+        "soal": 32,
+        "pilihan": "Pola pendidikan lama yang efektif",
+        "jawaban": "C",
+        "created_at": "2018-02-14T15:26:52.447Z",
+        "updated_at": "2018-02-14T15:26:52.447Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 139,
+    "fields": {
+        "soal": 32,
+        "pilihan": "Bentuk pendidikan yang positif",
+        "jawaban": "D",
+        "created_at": "2018-02-14T15:26:52.447Z",
+        "updated_at": "2018-02-14T15:26:52.447Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 140,
+    "fields": {
+        "soal": 32,
+        "pilihan": "Pola pendisiplinan yang efektif",
+        "jawaban": "E",
+        "created_at": "2018-02-14T15:26:52.448Z",
+        "updated_at": "2018-02-14T15:26:52.448Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 141,
+    "fields": {
+        "soal": 33,
+        "pilihan": "Setiap perbuatan terhadap anak yang berakibat timbulnya kesengsaraan fisik.",
+        "jawaban": "A",
+        "created_at": "2018-02-14T15:27:39.767Z",
+        "updated_at": "2018-02-14T15:27:39.767Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 142,
+    "fields": {
+        "soal": 33,
+        "pilihan": "Setiap perbuatan terhadap anak yang berakibat timbulnya kesengsaraan psikis dan seksual, dan/atau penelantaran, termasuk ancaman untuk melakukan perbuatan, pemaksaan, atau perampasan kemerdekaan secara melawan hukum",
+        "jawaban": "B",
+        "created_at": "2018-02-14T15:27:39.767Z",
+        "updated_at": "2018-02-14T15:27:39.767Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 143,
+    "fields": {
+        "soal": 33,
+        "pilihan": "Setiap perbuatan terhadap anak yang berakibat timbulnya kesengsaraan atau penderitaan secara fisik, psikis, seksual, dan/atau penelantaran, termasuk ancaman untuk melakukan perbuatan, pemaksaan, atau perampasan kemerdekaan secara melawan hukum",
+        "jawaban": "C",
+        "created_at": "2018-02-14T15:27:39.767Z",
+        "updated_at": "2018-02-14T15:27:39.767Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 144,
+    "fields": {
+        "soal": 33,
+        "pilihan": "Setiap perbuatan terhadap anak yang berakibat timbulnya kesengsaraan atau penderitaan secara fisik, psikis, seksual, dan/atau penelantaran, tidak termasuk ancaman untuk melakukan perbuatan, pemaksaan, atau perampasan kemerdekaan secara melawan hukum",
+        "jawaban": "D",
+        "created_at": "2018-02-14T15:27:39.777Z",
+        "updated_at": "2018-02-14T15:27:39.777Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 145,
+    "fields": {
+        "soal": 33,
+        "pilihan": "Setiap perbuatan terhadap anak yang berakibat timbulnya kesengsaraan psikis",
+        "jawaban": "E",
+        "created_at": "2018-02-14T15:27:39.778Z",
+        "updated_at": "2018-02-14T15:27:39.778Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 146,
+    "fields": {
+        "soal": 34,
+        "pilihan": "Memaki;",
+        "jawaban": "A",
+        "created_at": "2018-02-14T15:28:24.818Z",
+        "updated_at": "2018-02-14T15:28:24.818Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 147,
+    "fields": {
+        "soal": 34,
+        "pilihan": "Menghina;",
+        "jawaban": "B",
+        "created_at": "2018-02-14T15:28:24.818Z",
+        "updated_at": "2018-02-14T15:28:24.818Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 148,
+    "fields": {
+        "soal": 34,
+        "pilihan": "Menjuluki,",
+        "jawaban": "C",
+        "created_at": "2018-02-14T15:28:24.818Z",
+        "updated_at": "2018-02-14T15:28:24.818Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 149,
+    "fields": {
+        "soal": 34,
+        "pilihan": "Menginjak.",
+        "jawaban": "D",
+        "created_at": "2018-02-14T15:28:24.819Z",
+        "updated_at": "2018-02-14T15:28:24.819Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 150,
+    "fields": {
+        "soal": 34,
+        "pilihan": "Memukul",
+        "jawaban": "E",
+        "created_at": "2018-02-14T15:28:24.819Z",
+        "updated_at": "2018-02-14T15:28:24.819Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 151,
+    "fields": {
+        "soal": 35,
+        "pilihan": "Memandang sinis;",
+        "jawaban": "A",
+        "created_at": "2018-02-14T15:29:09.358Z",
+        "updated_at": "2018-02-14T15:29:09.358Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 152,
+    "fields": {
+        "soal": 35,
+        "pilihan": "Memandang penuh ancaman;",
+        "jawaban": "B",
+        "created_at": "2018-02-14T15:29:09.358Z",
+        "updated_at": "2018-02-14T15:29:09.358Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 153,
+    "fields": {
+        "soal": 35,
+        "pilihan": "Mendiamkan;",
+        "jawaban": "C",
+        "created_at": "2018-02-14T15:29:09.358Z",
+        "updated_at": "2018-02-14T15:29:09.358Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 154,
+    "fields": {
+        "soal": 35,
+        "pilihan": "Meraba",
+        "jawaban": "D",
+        "created_at": "2018-02-14T15:29:09.359Z",
+        "updated_at": "2018-02-14T15:29:09.359Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 155,
+    "fields": {
+        "soal": 35,
+        "pilihan": "Melamun",
+        "jawaban": "E",
+        "created_at": "2018-02-14T15:29:09.359Z",
+        "updated_at": "2018-02-14T15:29:09.359Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 156,
+    "fields": {
+        "soal": 36,
+        "pilihan": "Cara pandang guru yang salah;",
+        "jawaban": "A",
+        "created_at": "2018-02-14T15:29:55.372Z",
+        "updated_at": "2018-02-14T15:29:55.372Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 157,
+    "fields": {
+        "soal": 36,
+        "pilihan": "Kultur yang mendukung;",
+        "jawaban": "B",
+        "created_at": "2018-02-14T15:29:55.372Z",
+        "updated_at": "2018-02-14T15:29:55.372Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 158,
+    "fields": {
+        "soal": 36,
+        "pilihan": "Sistem yang permisif.",
+        "jawaban": "C",
+        "created_at": "2018-02-14T15:29:55.373Z",
+        "updated_at": "2018-02-14T15:29:55.373Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 159,
+    "fields": {
+        "soal": 36,
+        "pilihan": "Sistem yang yang salah",
+        "jawaban": "D",
+        "created_at": "2018-02-14T15:29:55.375Z",
+        "updated_at": "2018-02-14T15:29:55.375Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 160,
+    "fields": {
+        "soal": 36,
+        "pilihan": "Jawaban a, b,c dan d salah semua",
+        "jawaban": "E",
+        "created_at": "2018-02-14T15:29:55.376Z",
+        "updated_at": "2018-02-14T15:29:55.376Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 161,
+    "fields": {
+        "soal": 37,
+        "pilihan": "Sama dengan hukuman;",
+        "jawaban": "A",
+        "created_at": "2018-02-14T15:30:39.892Z",
+        "updated_at": "2018-02-14T15:30:39.892Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 162,
+    "fields": {
+        "soal": 37,
+        "pilihan": "Berbeda dengan hukuman;",
+        "jawaban": "B",
+        "created_at": "2018-02-14T15:30:39.900Z",
+        "updated_at": "2018-02-14T15:30:39.900Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 163,
+    "fields": {
+        "soal": 37,
+        "pilihan": "Sama dengan sanksi",
+        "jawaban": "C",
+        "created_at": "2018-02-14T15:30:39.901Z",
+        "updated_at": "2018-02-14T15:30:39.901Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 164,
+    "fields": {
+        "soal": 37,
+        "pilihan": "Sama dengan perlakuan",
+        "jawaban": "D",
+        "created_at": "2018-02-14T15:30:39.902Z",
+        "updated_at": "2018-02-14T15:30:39.902Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 165,
+    "fields": {
+        "soal": 37,
+        "pilihan": "Jawaban a, b dan c salah",
+        "jawaban": "E",
+        "created_at": "2018-02-14T15:30:39.902Z",
+        "updated_at": "2018-02-14T15:30:39.902Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 166,
+    "fields": {
+        "soal": 38,
+        "pilihan": "membentuk mental yang kuat",
+        "jawaban": "A",
+        "created_at": "2018-02-14T15:31:21.327Z",
+        "updated_at": "2018-02-14T15:31:21.327Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 167,
+    "fields": {
+        "soal": 38,
+        "pilihan": "berdampak negatif bagi tumbuh kembang anak;",
+        "jawaban": "B",
+        "created_at": "2018-02-14T15:31:21.328Z",
+        "updated_at": "2018-02-14T15:31:21.328Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 168,
+    "fields": {
+        "soal": 38,
+        "pilihan": "mendisiplinkan anak",
+        "jawaban": "C",
+        "created_at": "2018-02-14T15:31:21.328Z",
+        "updated_at": "2018-02-14T15:31:21.328Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 169,
+    "fields": {
+        "soal": 38,
+        "pilihan": "mempengaruhi keterampilan yang positif dalam kepemimpinan",
+        "jawaban": "D",
+        "created_at": "2018-02-14T15:31:21.329Z",
+        "updated_at": "2018-02-14T15:31:21.329Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 170,
+    "fields": {
+        "soal": 38,
+        "pilihan": "membentuk mental yang kuat dalam kepemimpinan",
+        "jawaban": "E",
+        "created_at": "2018-02-14T15:31:21.329Z",
+        "updated_at": "2018-02-14T15:31:21.329Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 171,
+    "fields": {
+        "soal": 39,
+        "pilihan": "Sepihak, karena hanya guru yang diwajibkan melindungi anak.",
+        "jawaban": "A",
+        "created_at": "2018-02-14T15:32:26.440Z",
+        "updated_at": "2018-02-14T15:32:26.440Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 172,
+    "fields": {
+        "soal": 39,
+        "pilihan": "Berimbang, karena anak juga diberikan kewajiban untuk menghormati guru",
+        "jawaban": "B",
+        "created_at": "2018-02-14T15:32:26.441Z",
+        "updated_at": "2018-02-14T15:32:26.441Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 173,
+    "fields": {
+        "soal": 39,
+        "pilihan": "Tidak jelas",
+        "jawaban": "C",
+        "created_at": "2018-02-14T15:32:26.441Z",
+        "updated_at": "2018-02-14T15:32:26.441Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 174,
+    "fields": {
+        "soal": 39,
+        "pilihan": "Tidak ada kewajiban",
+        "jawaban": "D",
+        "created_at": "2018-02-14T15:32:26.442Z",
+        "updated_at": "2018-02-14T15:32:26.442Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 175,
+    "fields": {
+        "soal": 39,
+        "pilihan": "Semua jawaban benar",
+        "jawaban": "E",
+        "created_at": "2018-02-14T15:32:26.442Z",
+        "updated_at": "2018-02-14T15:32:26.442Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 176,
+    "fields": {
+        "soal": 40,
+        "pilihan": "Pendidik, tenaga kependidikan, satuan pendidikan, komite sekolah, masyarakat,pemerintah kabupaten/kota, pemerintah provinsi, dan Pemerintah sesuai dengan kewenangannya\u201d.",
+        "jawaban": "A",
+        "created_at": "2018-02-14T15:34:19.731Z",
+        "updated_at": "2018-02-14T15:34:19.731Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 177,
+    "fields": {
+        "soal": 40,
+        "pilihan": "Orangtua/wali peserta didik, pendidik, tenaga kependidikan, satuan pendidikan, komite sekolah pemerintah kabupaten/kota",
+        "jawaban": "B",
+        "created_at": "2018-02-14T15:34:19.731Z",
+        "updated_at": "2018-02-14T15:34:19.731Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 178,
+    "fields": {
+        "soal": 40,
+        "pilihan": "Peserta didik, komite sekolah, pemerintah kabupaten/kota dan pemerintah provinsi.",
+        "jawaban": "C",
+        "created_at": "2018-02-14T15:34:19.732Z",
+        "updated_at": "2018-02-14T15:34:19.732Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 179,
+    "fields": {
+        "soal": 40,
+        "pilihan": "Peserta didik, orangtua/wali peserta didik, pendidik, tenaga kependidikan, satuan pendidikan, komite sekolah, masyarakat,pemerintah kabupaten/kota, pemerintah provinsi, dan Pemerintah sesuai dengan kewenangannya\u201d.",
+        "jawaban": "D",
+        "created_at": "2018-02-14T15:34:19.732Z",
+        "updated_at": "2018-02-14T15:34:19.732Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 180,
+    "fields": {
+        "soal": 40,
+        "pilihan": "Orangtua/wali peserta didik, pendidik, tenaga kependidikan dan Pemerintah",
+        "jawaban": "E",
+        "created_at": "2018-02-14T15:34:19.737Z",
+        "updated_at": "2018-02-14T15:34:19.737Z"
+    }
 }
 ]
