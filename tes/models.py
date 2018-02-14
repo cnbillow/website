@@ -10,7 +10,7 @@ class Soal(models.Model):
     updated_at = models.DateTimeField(auto_now=True)
 
     class Meta:
-        ordering = ('created_at', 'updated_at')
+        ordering = ['-created_at', '-updated_at']
 
     def __str__(self):
         return self.soal
@@ -19,7 +19,7 @@ class Soal(models.Model):
 class PilihanSoal(models.Model):
     JAWABAN = (("A", "A"), ("B", "B"), ("C", "C"), ("D", "D"), ("E", "E"),)
 
-    soal = models.ForeignKey(Soal, on_delete=models.CASCADE)
+    soal = models.ForeignKey(Soal, related_name='pilihan', on_delete=models.CASCADE)
     pilihan = models.CharField(max_length=255)
     jawaban = models.CharField(max_length=1, choices=JAWABAN)
 
@@ -27,7 +27,8 @@ class PilihanSoal(models.Model):
     updated_at = models.DateTimeField(auto_now=True)
 
     class Meta:
-        ordering = ('created_at', 'updated_at')
+        unique_together = ('soal',)
+        ordering = ['-created_at', '-updated_at']
 
     def __str__(self):
         return self.pilihan
@@ -53,7 +54,7 @@ class Konfigurasi(models.Model):
     updated_at = models.DateTimeField(auto_now=True)
 
     class Meta:
-        ordering = ('created_at', 'updated_at')
+        ordering = ['-created_at', '-updated_at']
 
     def __str__(self):
         return self.kegiatan
