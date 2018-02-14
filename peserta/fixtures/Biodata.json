@@ -4,18 +4,18 @@
     "pk": 1,
     "fields": {
         "user": 2,
-        "nuptk": "1237821683761283",
-        "nama_lengkap": "Imam Digmi",
+        "nuptk": "125610101048976",
+        "nama_lengkap": "Imam Taufiq",
         "jenis_kelamin": "P",
         "nomor_hp": "08970008875",
         "tempat_lahir": "Jepara",
-        "tanggal_lahir": "2016-03-09",
-        "asal_sekolah": "SMKN 1 CIkedung",
-        "kecamatan": "Cikedu",
+        "tanggal_lahir": "2018-02-13",
+        "asal_sekolah": "SMKN 1 Cikedung",
+        "kecamatan": "Ciked",
         "kabupaten": "Indr",
-        "provinsi": "ja",
-        "created_at": "2018-01-21T08:20:00.757Z",
-        "updated_at": "2018-01-21T08:20:00.757Z"
+        "provinsi": "JB",
+        "created_at": "2018-02-14T08:33:08.528Z",
+        "updated_at": "2018-02-14T08:33:08.528Z"
     }
 },
 {
@@ -23,18 +23,18 @@
     "pk": 2,
     "fields": {
         "user": 3,
-        "nuptk": "123987979",
-        "nama_lengkap": "Rizky D. Novyantika",
+        "nuptk": "128934101028593",
+        "nama_lengkap": "Ramita",
         "jenis_kelamin": "W",
-        "nomor_hp": "082226444428",
+        "nomor_hp": "082226444359",
         "tempat_lahir": "Indramayu",
-        "tanggal_lahir": "2018-01-16",
-        "asal_sekolah": "SMKN 1 Anjatan",
-        "kecamatan": "Anjata",
+        "tanggal_lahir": "2018-02-17",
+        "asal_sekolah": "SMKN 1 Cikedung",
+        "kecamatan": "Ciked",
         "kabupaten": "Indr",
-        "provinsi": "Ja",
-        "created_at": "2018-01-21T08:43:35.212Z",
-        "updated_at": "2018-01-21T08:43:35.212Z"
+        "provinsi": "JB",
+        "created_at": "2018-02-14T08:34:23.462Z",
+        "updated_at": "2018-02-14T08:34:23.462Z"
     }
 }
 ]
