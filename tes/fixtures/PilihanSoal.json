@@ -1,0 +1,442 @@
+[
+{
+    "model": "tes.pilihansoal",
+    "pk": 1,
+    "fields": {
+        "soal": 1,
+        "pilihan": "Ramah untuk anak yang cerdas dan berbakat istimewa",
+        "jawaban": "A",
+        "created_at": "2018-02-14T08:38:35.133Z",
+        "updated_at": "2018-02-14T08:38:35.133Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 2,
+    "fields": {
+        "soal": 1,
+        "pilihan": "Menjunjung tinggi keberagaman peserta didik",
+        "jawaban": "B",
+        "created_at": "2018-02-14T08:38:35.134Z",
+        "updated_at": "2018-02-14T08:38:35.134Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 3,
+    "fields": {
+        "soal": 1,
+        "pilihan": "Diperuntukkan pada Anak Berkebutuhan Khusus",
+        "jawaban": "C",
+        "created_at": "2018-02-14T08:38:35.134Z",
+        "updated_at": "2018-02-14T08:38:35.134Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 4,
+    "fields": {
+        "soal": 1,
+        "pilihan": "Kemampuan peserta didiknya di bawah rata-rata",
+        "jawaban": "D",
+        "created_at": "2018-02-14T08:38:35.144Z",
+        "updated_at": "2018-02-14T08:38:35.144Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 5,
+    "fields": {
+        "soal": 2,
+        "pilihan": "memotivasi semangat berkarya, meningkatkan pendapatan dan kesejahteraan",
+        "jawaban": "A",
+        "created_at": "2018-02-14T08:39:45.234Z",
+        "updated_at": "2018-02-14T08:39:45.234Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 6,
+    "fields": {
+        "soal": 2,
+        "pilihan": "pemenuhan kewajiban dalam melaksanakan tugas profesinya sebagai guru yang kreatif dan inovatif",
+        "jawaban": "B",
+        "created_at": "2018-02-14T08:39:45.237Z",
+        "updated_at": "2018-02-14T08:39:45.237Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 7,
+    "fields": {
+        "soal": 2,
+        "pilihan": "menumbuhkan rasa aman dan nyaman dalam beraktivitas sebagai guru",
+        "jawaban": "C",
+        "created_at": "2018-02-14T08:39:45.238Z",
+        "updated_at": "2018-02-14T08:39:45.238Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 8,
+    "fields": {
+        "soal": 2,
+        "pilihan": "dalam melaksanakan tugas dan fungsinya secara profesional dan bermartabat",
+        "jawaban": "D",
+        "created_at": "2018-02-14T08:39:45.241Z",
+        "updated_at": "2018-02-14T08:39:45.241Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 9,
+    "fields": {
+        "soal": 3,
+        "pilihan": "Interaksi-sosial",
+        "jawaban": "A",
+        "created_at": "2018-02-14T08:41:13.630Z",
+        "updated_at": "2018-02-14T08:41:13.630Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 10,
+    "fields": {
+        "soal": 3,
+        "pilihan": "Bahasa-komunikasi",
+        "jawaban": "B",
+        "created_at": "2018-02-14T08:41:13.631Z",
+        "updated_at": "2018-02-14T08:41:13.631Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 11,
+    "fields": {
+        "soal": 3,
+        "pilihan": "Fisik-motor",
+        "jawaban": "C",
+        "created_at": "2018-02-14T08:41:13.631Z",
+        "updated_at": "2018-02-14T08:41:13.631Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 12,
+    "fields": {
+        "soal": 3,
+        "pilihan": "Kognitif-kecerdasan",
+        "jawaban": "D",
+        "created_at": "2018-02-14T08:41:13.632Z",
+        "updated_at": "2018-02-14T08:41:13.632Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 13,
+    "fields": {
+        "soal": 4,
+        "pilihan": "memahami perlindungan K3",
+        "jawaban": "A",
+        "created_at": "2018-02-14T08:41:56.977Z",
+        "updated_at": "2018-02-14T08:41:56.977Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 14,
+    "fields": {
+        "soal": 4,
+        "pilihan": "memperoleh perlindungan K3",
+        "jawaban": "B",
+        "created_at": "2018-02-14T08:41:56.981Z",
+        "updated_at": "2018-02-14T08:41:56.981Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 15,
+    "fields": {
+        "soal": 4,
+        "pilihan": "berperilaku sesuai perundang-undangan.",
+        "jawaban": "C",
+        "created_at": "2018-02-14T08:41:56.982Z",
+        "updated_at": "2018-02-14T08:41:56.982Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 16,
+    "fields": {
+        "soal": 4,
+        "pilihan": "mengkritisi perlindungan K3",
+        "jawaban": "D",
+        "created_at": "2018-02-14T08:41:56.985Z",
+        "updated_at": "2018-02-14T08:41:56.985Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 17,
+    "fields": {
+        "soal": 5,
+        "pilihan": "mempraktekkan keterampilan tersebut dengan cara yang menyenangkan, holistik dan terorganisir",
+        "jawaban": "A",
+        "created_at": "2018-02-14T08:42:50.660Z",
+        "updated_at": "2018-02-14T08:42:50.660Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 18,
+    "fields": {
+        "soal": 5,
+        "pilihan": "melihat, mendengar, menyentuh, membuat penilaian dan memahaminya",
+        "jawaban": "B",
+        "created_at": "2018-02-14T08:42:50.660Z",
+        "updated_at": "2018-02-14T08:42:50.660Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 19,
+    "fields": {
+        "soal": 5,
+        "pilihan": "profesional guru dalam menjalankan tugasnya mendidik, mengajar dan membimbing",
+        "jawaban": "C",
+        "created_at": "2018-02-14T08:42:50.670Z",
+        "updated_at": "2018-02-14T08:42:50.670Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 20,
+    "fields": {
+        "soal": 5,
+        "pilihan": "bereaksi melalui urutan kegiatan pembelajaran yang inovatif sesuai minat guru",
+        "jawaban": "D",
+        "created_at": "2018-02-14T08:42:50.670Z",
+        "updated_at": "2018-02-14T08:42:50.670Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 21,
+    "fields": {
+        "soal": 6,
+        "pilihan": "World Health Organization (WHO)",
+        "jawaban": "A",
+        "created_at": "2018-02-14T09:08:01.818Z",
+        "updated_at": "2018-02-14T09:08:01.818Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 22,
+    "fields": {
+        "soal": 6,
+        "pilihan": "Permenaker Nomor: 03/Men/1998",
+        "jawaban": "B",
+        "created_at": "2018-02-14T09:08:01.821Z",
+        "updated_at": "2018-02-14T09:08:01.821Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 23,
+    "fields": {
+        "soal": 6,
+        "pilihan": "OHSAS 18001:2007",
+        "jawaban": "C",
+        "created_at": "2018-02-14T09:08:01.824Z",
+        "updated_at": "2018-02-14T09:08:01.824Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 24,
+    "fields": {
+        "soal": 6,
+        "pilihan": "UU Nomor 3 Tahun 1992 tentang Jaminan Sosial Tenaga Kerja",
+        "jawaban": "D",
+        "created_at": "2018-02-14T09:08:01.825Z",
+        "updated_at": "2018-02-14T09:08:01.825Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 25,
+    "fields": {
+        "soal": 7,
+        "pilihan": "Klasifikasi menurut penyebab",
+        "jawaban": "A",
+        "created_at": "2018-02-14T09:09:48.447Z",
+        "updated_at": "2018-02-14T09:09:48.447Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 26,
+    "fields": {
+        "soal": 7,
+        "pilihan": "Klasifikasi menurut jenis kejadian",
+        "jawaban": "B",
+        "created_at": "2018-02-14T09:09:48.456Z",
+        "updated_at": "2018-02-14T09:09:48.456Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 27,
+    "fields": {
+        "soal": 7,
+        "pilihan": "Klasifikasi menurut letak luka",
+        "jawaban": "C",
+        "created_at": "2018-02-14T09:09:48.465Z",
+        "updated_at": "2018-02-14T09:09:48.465Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 28,
+    "fields": {
+        "soal": 7,
+        "pilihan": "Klasifikasi menurut keteledoran",
+        "jawaban": "D",
+        "created_at": "2018-02-14T09:09:48.465Z",
+        "updated_at": "2018-02-14T09:09:48.465Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 29,
+    "fields": {
+        "soal": 8,
+        "pilihan": "Kondidi yang tidak aman, tindakan yang tidak aman, kecerobohan",
+        "jawaban": "A",
+        "created_at": "2018-02-14T09:10:36.853Z",
+        "updated_at": "2018-02-14T09:10:36.853Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 30,
+    "fields": {
+        "soal": 8,
+        "pilihan": "Faktor teknis, faktor non teknis, dan faktor alam",
+        "jawaban": "B",
+        "created_at": "2018-02-14T09:10:36.854Z",
+        "updated_at": "2018-02-14T09:10:36.854Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 31,
+    "fields": {
+        "soal": 8,
+        "pilihan": "Kondisi peralatan, keterampilan yang kurang, dan bencana alam",
+        "jawaban": "C",
+        "created_at": "2018-02-14T09:10:36.858Z",
+        "updated_at": "2018-02-14T09:10:36.858Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 32,
+    "fields": {
+        "soal": 8,
+        "pilihan": "Ketidaktahuan, bekerja tanpa peralatan keselamatan",
+        "jawaban": "D",
+        "created_at": "2018-02-14T09:10:36.859Z",
+        "updated_at": "2018-02-14T09:10:36.859Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 33,
+    "fields": {
+        "soal": 9,
+        "pilihan": "PP nomor 50 tahun 2012 tentang SMK3",
+        "jawaban": "A",
+        "created_at": "2018-02-14T09:11:18.350Z",
+        "updated_at": "2018-02-14T09:11:18.351Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 34,
+    "fields": {
+        "soal": 9,
+        "pilihan": "Permenaker Nomor: 03/Men/1998",
+        "jawaban": "B",
+        "created_at": "2018-02-14T09:11:18.354Z",
+        "updated_at": "2018-02-14T09:11:18.354Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 35,
+    "fields": {
+        "soal": 9,
+        "pilihan": "Permenaker nomor 5 tahun 1996",
+        "jawaban": "C",
+        "created_at": "2018-02-14T09:11:18.355Z",
+        "updated_at": "2018-02-14T09:11:18.355Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 36,
+    "fields": {
+        "soal": 9,
+        "pilihan": "Standar Occupational Healt and Safety Management System 18001:2007",
+        "jawaban": "D",
+        "created_at": "2018-02-14T09:11:18.358Z",
+        "updated_at": "2018-02-14T09:11:18.358Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 37,
+    "fields": {
+        "soal": 10,
+        "pilihan": "Meningkatkan produktifitas",
+        "jawaban": "A",
+        "created_at": "2018-02-14T09:11:55.831Z",
+        "updated_at": "2018-02-14T09:11:55.831Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 38,
+    "fields": {
+        "soal": 10,
+        "pilihan": "Membuat sistem manajemen yang modern",
+        "jawaban": "B",
+        "created_at": "2018-02-14T09:11:55.832Z",
+        "updated_at": "2018-02-14T09:11:55.832Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 39,
+    "fields": {
+        "soal": 10,
+        "pilihan": "Melindungi pekerja",
+        "jawaban": "C",
+        "created_at": "2018-02-14T09:11:55.844Z",
+        "updated_at": "2018-02-14T09:11:55.844Z"
+    }
+},
+{
+    "model": "tes.pilihansoal",
+    "pk": 40,
+    "fields": {
+        "soal": 10,
+        "pilihan": "Mengurangi kecelakaan kerja",
+        "jawaban": "D",
+        "created_at": "2018-02-14T09:11:55.854Z",
+        "updated_at": "2018-02-14T09:11:55.854Z"
+    }
+}
+]

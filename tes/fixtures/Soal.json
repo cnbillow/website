@@ -1,0 +1,112 @@
+[
+{
+    "model": "tes.soal",
+    "pk": 1,
+    "fields": {
+        "soal": "Guru yang telah mendapatkan perlindungan K3 perlu memberikan pembelajaran yang inklusi, yaitu\r\npembelajaran yang:",
+        "kegiatan": "K3",
+        "kunci_jawaban": "B",
+        "created_at": "2018-02-14T08:38:35.133Z",
+        "updated_at": "2018-02-14T08:38:35.133Z"
+    }
+},
+{
+    "model": "tes.soal",
+    "pk": 2,
+    "fields": {
+        "soal": "Manfaat yang diperoleh dari pelaksanaan UU Perlindungan K3 dikaji dari aspek psikologis adalah....",
+        "kegiatan": "K3",
+        "kunci_jawaban": "C",
+        "created_at": "2018-02-14T08:39:45.233Z",
+        "updated_at": "2018-02-14T09:08:17.687Z"
+    }
+},
+{
+    "model": "tes.soal",
+    "pk": 3,
+    "fields": {
+        "soal": "Dampak psikologis yang paling dominan (kuat) dari kasus \u201cpemukulan oleh guru pada anak yang sering\r\nterlambat masuk kelas dan tidak mengerjakan PR\u201d adalah....",
+        "kegiatan": "K3",
+        "kunci_jawaban": "A",
+        "created_at": "2018-02-14T08:41:13.629Z",
+        "updated_at": "2018-02-14T08:41:13.630Z"
+    }
+},
+{
+    "model": "tes.soal",
+    "pk": 4,
+    "fields": {
+        "soal": "Melalui Bimtek K3 diharapkan bermanfaat bagi guru dalam upaya:",
+        "kegiatan": "K3",
+        "kunci_jawaban": "C",
+        "created_at": "2018-02-14T08:41:56.976Z",
+        "updated_at": "2018-02-14T08:41:56.976Z"
+    }
+},
+{
+    "model": "tes.soal",
+    "pk": 5,
+    "fields": {
+        "soal": "Untuk memahami UU Perlindungan K3, seorang guru harus memiliki kemampuan pesrepsi yang baik,\r\nmengingat kemampuan persepsi itu merupakan kemampuan:",
+        "kegiatan": "K3",
+        "kunci_jawaban": "B",
+        "created_at": "2018-02-14T08:42:50.659Z",
+        "updated_at": "2018-02-14T08:42:50.659Z"
+    }
+},
+{
+    "model": "tes.soal",
+    "pk": 6,
+    "fields": {
+        "soal": "Kecelakaan kerja adalah kecelakaan yang terjadi berhubung dengan hubungan kerja, termasuk penyakit\r\nyang timbul karena hubungan kerja, demikian pula kecelakaan yang terjadi dalam perjalanan berangkat\r\ndari rumah menuju tempat kerja, dan pulang ke rumah melalui jalan yang biasa atau wajar dilalui.\r\nPengertian kecelakaan kerja tersebut di atas berdasarkan:",
+        "kegiatan": "K3",
+        "kunci_jawaban": "D",
+        "created_at": "2018-02-14T09:08:01.818Z",
+        "updated_at": "2018-02-14T09:08:01.818Z"
+    }
+},
+{
+    "model": "tes.soal",
+    "pk": 7,
+    "fields": {
+        "soal": "Menurut Organisasi Perburuhan Internasional (international Labour Organization/ILO) kecelakaan akibat\r\nkerja diklasifikasikan berdasarkan 4 macam penggolongan, satu diantaranya adalah \u2026",
+        "kegiatan": "K3",
+        "kunci_jawaban": "A",
+        "created_at": "2018-02-14T09:09:48.446Z",
+        "updated_at": "2018-02-14T09:09:48.446Z"
+    }
+},
+{
+    "model": "tes.soal",
+    "pk": 8,
+    "fields": {
+        "soal": "Faktor-faktor penyebab kecelakaan kerja adalah sebagai berikut \u2026\u2026",
+        "kegiatan": "K3",
+        "kunci_jawaban": "B",
+        "created_at": "2018-02-14T09:10:36.853Z",
+        "updated_at": "2018-02-14T09:10:36.853Z"
+    }
+},
+{
+    "model": "tes.soal",
+    "pk": 9,
+    "fields": {
+        "soal": "Sistem Manajemen Keselamatan dan Kesehatan Kerja yang selanjutnya disingkat SMK3 adalah bagian\r\ndari sistem manajemen perusahaan secara keseluruhan dalam rangka pengendalian resiko yang berkaitan\r\ndengan kegiatan kerja guna terciptanya tempat kerja yang aman, efisien dan produktif. Pengertian\r\nkecelakaan kerja tersebut di atas berdasarkan:",
+        "kegiatan": "K3",
+        "kunci_jawaban": "A",
+        "created_at": "2018-02-14T09:11:18.350Z",
+        "updated_at": "2018-02-14T09:11:18.350Z"
+    }
+},
+{
+    "model": "tes.soal",
+    "pk": 10,
+    "fields": {
+        "soal": "Ada beberapa manfaat yang dapat diperoleh dari penerapan sistem manajemen keselamatan dan kesehatan\r\nkerja, salah satu diantaranya adalah \u2026\u2026\u2026\u2026",
+        "kegiatan": "K3",
+        "kunci_jawaban": "C",
+        "created_at": "2018-02-14T09:11:55.831Z",
+        "updated_at": "2018-02-14T09:11:55.831Z"
+    }
+}
+]
