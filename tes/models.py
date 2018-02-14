@@ -7,7 +7,7 @@ class Soal(models.Model):
     KEGIATAN_BIMTEK = (
         (HK, "Hak Kekayaan Intelektual"),
         (PP, "Perlindungan Profesi"),
-        (KK, "Keselamatan Kerja"),
+        (KK, "Keselamatan Kesehatan Kerja"),
     )
     KUNCI_JAWABAN = (("A", "A"), ("B", "B"), ("C", "C"), ("D", "D"), ("E", "E"),)
 
@@ -52,7 +52,7 @@ class Konfigurasi(models.Model):
     KEGIATAN_BIMTEK = (
         (HK, "Hak Kekayaan Intelektual"),
         (PP, "Perlindungan Profesi"),
-        (KK, "Keselamatan Kerja"),
+        (KK, "Keselamatan Kesehatan Kerja"),
     )
 
     sifat = models.SmallIntegerField(default=TUTUP, choices=SIFAT)
