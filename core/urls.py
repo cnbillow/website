@@ -18,8 +18,6 @@ from django.urls import path, include
 
 urlpatterns = [
     path('', include('peserta.urls')),
+    path('tes/', include('tes.urls')),
     path('admin/', admin.site.urls),
-
-    # API
-    path('api/v1/tes/', include('tes.api.urls')),
 ]
