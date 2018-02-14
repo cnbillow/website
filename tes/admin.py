@@ -10,11 +10,7 @@ class PilihanSoalInline(admin.TabularInline):
 
 class SoalAdmin(admin.ModelAdmin):
     fieldsets = [
-        ('SOAL', {'fields': ['soal', 'kunci_jawaban']}),
-    ]
-    inline_initial_data = [
-        {'title': 'choice_1'},
-        {'title': 'choice_2'}
+        ('SOAL', {'fields': ['soal', 'kegiatan', 'kunci_jawaban']}),
     ]
     inlines = [PilihanSoalInline]
     list_display = ('soal', 'kunci_jawaban', 'created_at', 'updated_at')

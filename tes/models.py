@@ -1,9 +1,18 @@
 from django.db import models
 
 class Soal(models.Model):
+    HK = "HK"
+    PP = "PP"
+    KK = "K3"
+    KEGIATAN_BIMTEK = (
+        (HK, "Hak Kekayaan Intelektual"),
+        (PP, "Perlindungan Profesi"),
+        (KK, "Keselamatan Kerja"),
+    )
     KUNCI_JAWABAN = (("A", "A"), ("B", "B"), ("C", "C"), ("D", "D"), ("E", "E"),)
 
     soal = models.TextField()
+    kegiatan = models.CharField(max_length=2, choices=KEGIATAN_BIMTEK)
     kunci_jawaban = models.CharField(max_length=1, choices=KUNCI_JAWABAN)
 
     created_at = models.DateTimeField(auto_now_add=True)
@@ -27,7 +36,6 @@ class PilihanSoal(models.Model):
     updated_at = models.DateTimeField(auto_now=True)
 
     class Meta:
-        unique_together = ('soal',)
         ordering = ['-created_at', '-updated_at']
 
     def __str__(self):
@@ -40,11 +48,11 @@ class Konfigurasi(models.Model):
     SIFAT = ((1, "Buka"), (0, "Tutup"),)
     HK = "HK"
     PP = "PP"
-    K3 = "K3"
+    KK = "K3"
     KEGIATAN_BIMTEK = (
         (HK, "Hak Kekayaan Intelektual"),
         (PP, "Perlindungan Profesi"),
-        (K3, "Keselamatan Kerja"),
+        (KK, "Keselamatan Kerja"),
     )
 
     sifat = models.SmallIntegerField(default=TUTUP, choices=SIFAT)
