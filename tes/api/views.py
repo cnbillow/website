@@ -25,3 +25,11 @@ class SoalDetailView(generics.RetrieveAPIView):
     def get_queryset(self):
         pk = self.kwargs['pk']
         return Soal.objects.filter(pk=pk)
+
+class SoalKegiatanView(generics.ListAPIView):
+    lookup_field = 'kegiatan'
+    serializer_class = SoalDetailSerializer
+
+    def get_queryset(self):
+        kegiatan = self.kwargs['kegiatan']
+        return Soal.objects.filter(kegiatan=kegiatan).order_by('?')[5:]

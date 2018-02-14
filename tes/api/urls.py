@@ -8,6 +8,7 @@ from rest_framework_jwt.views import (
 from .views import (
     SoalView,
     SoalDetailView,
+    SoalKegiatanView,
 )
 
 urlpatterns = [
@@ -18,4 +19,5 @@ urlpatterns = [
     # endpoint
     path('', SoalView.as_view(), name='index'),
     path('<int:pk>/', SoalDetailView.as_view(), name='detail'),
+    path('<str:kegiatan>/', SoalKegiatanView.as_view(), name='kegiatan'),
 ]
